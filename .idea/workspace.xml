@@ -19,12 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b2b023b-a329-43c9-b9c1-a2d8f5de6121" name="Default Changelist" comment="Gitignore bug fixed">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+    <list default="true" id="4b2b023b-a329-43c9-b9c1-a2d8f5de6121" name="Default Changelist" comment="Project copy added">
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601972929648</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Project copy added">
+      <created>1601973326849</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1601973326849</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,7 +193,8 @@
     <MESSAGE value="TypeScript configurations added" />
     <MESSAGE value="Prettier formatting added" />
     <MESSAGE value="Gitignore bug fixed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Gitignore bug fixed" />
+    <MESSAGE value="Project copy added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Project copy added" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1792" height="329" key="GridCell.Tab.0.bottom" timestamp="1601963517825">

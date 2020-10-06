@@ -1,5 +1,5 @@
 {
-  "name": "typescript-cli",
+  "name": "ts-gen",
   "version": "0.0.1",
   "description": "CLI to generate TypeScript Boilerplate",
   "main": "index.js",
