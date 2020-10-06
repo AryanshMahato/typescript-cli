@@ -1,6 +1,6 @@
 {
-  "name": "ts-gen",
-  "version": "0.0.1",
+  "name": "typescirpt-generator",
+  "version": "0.1.0",
   "description": "CLI to generate TypeScript Boilerplate",
   "main": "index.js",
   "bin": "index.js",
@@ -24,5 +24,6 @@
   "dependencies": {
     "ncp": "^2.0.0"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "private": false
 }

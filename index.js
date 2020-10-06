@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const ncp = require("ncp");
 const path = require("path");
 

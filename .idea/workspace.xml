@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b2b023b-a329-43c9-b9c1-a2d8f5de6121" name="Default Changelist" comment="Project copy added">
+    <list default="true" id="4b2b023b-a329-43c9-b9c1-a2d8f5de6121" name="Default Changelist" comment="project name changed">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -170,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601973326849</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="project name changed">
+      <created>1601973375652</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1601973375652</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,7 +203,8 @@
     <MESSAGE value="Prettier formatting added" />
     <MESSAGE value="Gitignore bug fixed" />
     <MESSAGE value="Project copy added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Project copy added" />
+    <MESSAGE value="project name changed" />
+    <option name="LAST_COMMIT_MESSAGE" value="project name changed" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1792" height="329" key="GridCell.Tab.0.bottom" timestamp="1601963517825">
