@@ -1,0 +1,9 @@
+{
+  "name": "typescript-cli",
+  "version": "0.0.1",
+  "description": "CLI to genreate TypeScript Boilerplate",
+  "main": "dist/index.js",
+  "repository": "git@github.com:AryanshMahato/typescript-cli.git",
+  "author": "AryanshMahato <aryanshmahato@gmail.com>",
+  "license": "MIT"
+}
