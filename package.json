@@ -20,5 +20,16 @@
     "nodemon": "^2.0.4",
     "prettier": "^2.1.2",
     "typescript": "^4.0.3"
-  }
+  },
+  "keywords": [
+    "typescript",
+    "typescript-cli",
+    "typescript-boilerplate",
+    "ts-cli",
+    "ts-boilerplate"
+  ],
+  "bugs": {
+    "url": "https://github.com/AryanshMahato/typescript-cli/issues"
+  },
+  "homepage": "https://github.com/AryanshMahato/typescript-cli#readme"
 }
