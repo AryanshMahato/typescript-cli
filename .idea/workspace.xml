@@ -19,8 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b2b023b-a329-43c9-b9c1-a2d8f5de6121" name="Default Changelist" comment="Project structure completed">
-      <change beforePath="$PROJECT_DIR$/project/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/project/.gitignore" afterDir="false" />
+    <list default="true" id="4b2b023b-a329-43c9-b9c1-a2d8f5de6121" name="Default Changelist" comment="Gitignore bug fixed">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,13 +50,15 @@
     <property name="ASKED_MARK_IGNORED_FILES_AS_EXCLUDED" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.13.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.11.5" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$USER_HOME$/.config/yarn/global/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -154,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601963611195</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Gitignore bug fixed">
+      <created>1601972929648</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601972929648</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,7 +189,8 @@
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="TypeScript configurations added" />
     <MESSAGE value="Prettier formatting added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Prettier formatting added" />
+    <MESSAGE value="Gitignore bug fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Gitignore bug fixed" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1792" height="329" key="GridCell.Tab.0.bottom" timestamp="1601963517825">
@@ -199,10 +213,10 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="484" y="302" key="IDE.errors.dialog/0.0.1792.1120@0.0.1792.1120" timestamp="1601963640144" />
-    <state x="397" y="199" key="SettingsEditor" timestamp="1601963224058">
+    <state x="397" y="199" key="SettingsEditor" timestamp="1601973261712">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="397" y="199" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1601963224058" />
+    <state x="397" y="199" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1601973261712" />
     <state x="496" y="296" key="Vcs.Push.Dialog.v2" timestamp="1601963626683">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
